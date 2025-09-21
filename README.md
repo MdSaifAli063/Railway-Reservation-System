@@ -34,6 +34,16 @@ My app is already deployed!
 
 ---
 
+## 🏆 Certificates
+
+Here are some of the certifications I've earned that showcase my skills and learning journey:
+
+
+
+
+---
+
+
 ## 🧭 Features Overview
 
 - ➕ Add Train: create a train and auto-seed its seats
