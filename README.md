@@ -44,8 +44,8 @@ Here are some of the certifications I've earned that showcase my skills and lear
 
 
 </div>
----
 
+---
 
 ## 🧭 Features Overview
 
