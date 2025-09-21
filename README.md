@@ -38,8 +38,11 @@ My app is already deployed!
 
 Here are some of the certifications I've earned that showcase my skills and learning journey:
 
+<div height="100em">
+
 ![image](https://github.com/MdSaifAli063/Railway-Reservation-System/blob/88cf9c63af81c420b544f6983bf99a3d237f7598/Screenshot%202025-09-22%20012829.png)
 
+</div>
 ---
 
 
