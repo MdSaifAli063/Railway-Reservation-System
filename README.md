@@ -1,10 +1,13 @@
 # 🚆 Railway Reservation System (Streamlit + SQLite)
-
+<p align="center">
+  
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![SQLite](https://img.shields.io/badge/DB-SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?logo=pandas)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</p>
 
 A lightweight, single-file Streamlit app for managing trains, seats, and ticket bookings with SQLite persistence.
 
