@@ -38,8 +38,7 @@ My app is already deployed!
 
 Here are some of the certifications I've earned that showcase my skills and learning journey:
 
-
-
+![image]()
 
 ---
 
