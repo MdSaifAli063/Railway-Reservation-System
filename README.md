@@ -20,7 +20,7 @@ A lightweight, single-file Streamlit app for managing trains, seats, and ticket 
 ## 🔗 Live App
 
 Your app is already deployed!
-- Live URL: https://your-deployment-url.example.com  ← replace with your URL if you want it visible here
+- Live URL: https://railway-reservation-system-saif-063.streamlit.app/  ← replace with your URL if you want it visible here
 
 ---
 
