@@ -28,6 +28,10 @@ My app is already deployed!
 
 ---
 
+## 👀 Preview
+
+---
+
 ## 🧭 Features Overview
 
 - ➕ Add Train: create a train and auto-seed its seats
