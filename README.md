@@ -217,4 +217,4 @@ Note: The SQLite DB file railway_system.db will be created on first run.
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License.
